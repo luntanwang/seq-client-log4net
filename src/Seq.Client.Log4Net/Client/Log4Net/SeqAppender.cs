@@ -19,6 +19,7 @@ using System.Net.Http;
 using System.Text;
 using log4net.Appender;
 using log4net.Core;
+using MicroKnights.Logging;
 
 namespace Seq.Client.Log4Net
 {
